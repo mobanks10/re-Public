@@ -2,10 +2,11 @@
   font-family:Helvetica;
 }
 
-.header{
+div.header{
   border: 1px solid black;
   height: 200px;
   width: 300px;
   padding: 10px;
   font-color: blue;
+  margin: auto;
 }
