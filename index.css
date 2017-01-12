@@ -1,13 +1,18 @@
 *{
-  font-family:Helvetica;
+  font-family: Helvetica, Sans-Serif;
 }
 
 .header{
   text-align: center;
   position: relative;
-  left:100px;
+  left: 100px;
 }
 
 .navigation{
   display: inline;
+}
+
+.chat_categories{
+  border: 1px solid black;
+  text-align: center;
 }
