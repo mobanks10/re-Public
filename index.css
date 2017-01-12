@@ -1,5 +1,7 @@
 *{
   font-family:Helvetica;
-  box-sizing: border-box;
 }
-
+div.header{
+  left: 40px;
+  position: relative;
+}
