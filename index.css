@@ -2,6 +2,7 @@
   font-family:Helvetica;
 }
 .header{
-  left: 320px;
+  text-align: center;
   position: relative;
+  left:300px;
 }
