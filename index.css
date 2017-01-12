@@ -6,3 +6,7 @@
   position: relative;
   left:150px;
 }
+
+.navigation{
+  display: inline;
+}
