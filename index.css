@@ -6,8 +6,8 @@
   padding: 75px;
 }
 
-.navigation{
-  display: inline-block;
+.ul{
+  display: inline;
 }
 
 .chat_categories{
