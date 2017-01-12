@@ -15,4 +15,5 @@ li{
 .chat_categories{
   border: 1px solid black;
   text-align: center;
+  padding: 100px;
 }
