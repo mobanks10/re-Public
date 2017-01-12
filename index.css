@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 
-div.header{
+.header{
   border: 1px solid black;
   padding: 20px;
   font-color: red;
