@@ -1,12 +1,11 @@
 *{
   font-family:Helvetica;
+  box-sizing: border-box;
 }
 
 div.header{
   border: 1px solid black;
-  height: 200px;
-  width: 300px;
-  padding: 10px;
-  font-color: blue;
+  padding: 20px;
+  font-color: red;
   margin: auto;
 }
