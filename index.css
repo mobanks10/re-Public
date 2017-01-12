@@ -4,7 +4,7 @@
 
 .header{
   padding: 75px;
-  position: fixed;
+  position: absolute;
   left: 50px;
 }
 
@@ -16,5 +16,5 @@ li{
   border: 1px solid black;
   text-align: center;
   padding: 100px;
-  display: block-inline;
+  display: inline-block;
 }
