@@ -8,7 +8,8 @@
 }
 
 .navigation{
-  display: inline;
+  list-style-type: none;
+  display: inline-block;
 }
 
 .chat_categories{
