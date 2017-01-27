@@ -1,21 +1,42 @@
-*{
-  font-family: Helvetica, Sans-Serif;
-}
-
-.header{
-  padding: 75px;
-  position: absolute;
-  left: 50px;
-  font-background: blue;
-}
-
-li{
-  display: inline;
-}
-
-.chat_categories{
-  border: 1px solid black;
-  text-align: center;
-  padding: 100px;
-  display: inline-block;
-}
+ *{
+     font-family: Helvetica, Sans-serif;
+    }
+    
+    li{
+     border: 2px solid black;
+     display: inline-block;
+     text-align: center;
+     padding: 50px;
+    }
+    
+    .header{
+         display: block;
+         padding: 50px;
+         text-align: center; 
+         border: 2px solid black;
+    }
+    
+    th{
+     border: 2px solid black;
+     position: relative;
+     left: 200px;
+     padding: 20px;
+    }
+    
+    td{
+     border: 2px solid black;
+     position: relative;
+     left: 200px;
+     padding: 20px;
+    }
+    
+    p{
+     text-align: center;
+     position: relative;
+     top: 15px;
+    }
+    
+    table{
+     display: block;
+     padding: 50px;
+    }
